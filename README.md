@@ -1,6 +1,10 @@
 # StudentChoice
 CS 4331
 
+Video showing what you can do with the ARKit.
+https://www.youtube.com/watch?v=6xDyVBsBtX8
+
+
 The ARKit is a platform developed by Apple that allows the user to develop augmented reality apps for the iPhone and iPad. 
 It comes with a lot of built in functions that normally would have to be programmed in. 
 Apple introduced the ARKit in September of 2017.
